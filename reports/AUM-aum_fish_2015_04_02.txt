@@ -1,0 +1,87 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 419
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-05 ; Times: 3
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-11 ; Times: 8
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alburnus" ; Times: 1
+	Query: "percina palmaris tulane" ; Times: 1
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "genus:pterygoplichthys institutioncode:aum" ; Times: 3
+	Query: "coris aygula" ; Times: 1
+	Query: "county:"Sumter" stateprovince:"Alabama"" ; Times: 1
+	Query: "Percina palmaris alabama terrapin" ; Times: 1
+	Query: "specificepithet:cahni genus:erimystax institutioncode:AUM" ; Times: 1
+	Query: "Percina palmaris alabama" ; Times: 1
+	Query: "stateprovince:"Alabama" genus:oreochromis" ; Times: 1
+	Query: "MNHN" ; Times: 1
+	Query: "actinopterygii vorax" ; Times: 1
+	Query: "catalognumber:54985 institutioncode:aum" ; Times: 1
+	Query: "Percina palmaris" ; Times: 2
+	Query: "obed river" ; Times: 1
+	Query: "acanthurus achilles" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 298 download events in this period)
+Total number of records downloaded: 5175 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5175
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 160
+Total number of records retrieved from searches: 5749
+Number of download events that retrieved data from the resource: 11
+Total number of records downloaded: 11225
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 197
+Total number of records retrieved from searches: 6349
+Number of download events that retrieved data from the resource: 25
+Total number of records downloaded: 12744
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

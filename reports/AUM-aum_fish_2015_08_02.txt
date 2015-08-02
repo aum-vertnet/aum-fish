@@ -1,0 +1,179 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 3092
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 13
+	Country: United States ; Times: 115
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 45
+	Date: 2015-07-07 ; Times: 5
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 14
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-11 ; Times: 8
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 6
+	Date: 2015-07-18 ; Times: 3
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 5
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-27 ; Times: 3
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "arius maculatus" ; Times: 1
+	Query: "scartella" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "menifee kentucky" ; Times: 1
+	Query: "bankhead national forest" ; Times: 2
+	Query: "ID 7218" ; Times: 1
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "alepes melanoptera" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "alectis ciliaris gulf" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama AUM" ; Times: 3
+	Query: "62750" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdi" ; Times: 1
+	Query: "chepo r country:"panama"" ; Times: 1
+	Query: "Cyprinella Caerulea alabama" ; Times: 3
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "Cyprinella gibbsi UAIC" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "sardinella melanura" ; Times: 1
+	Query: "naucrates gulf" ; Times: 1
+	Query: "ruvettus gulf" ; Times: 1
+	Query: "Cyprinella gibbsi tallapoosa river" ; Times: 3
+	Query: "24633" ; Times: 1
+	Query: "chepo country:"panama"" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina"" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "county:"Union" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "atropus" ; Times: 1
+	Query: "Pteronotropis euryzonus institutioncode:AUM" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "Cyprinella gibbsi" ; Times: 12
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "county:"Fairfield" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "county:"Laurens" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "laevigatus" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "Cyprinella caerulea Alabama" ; Times: 2
+	Query: "27802" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Cyprinella caerulea" ; Times: 19
+	Query: "conecuh national forest" ; Times: 1
+	Query: "tenualosa ilisha" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "Phenacogaster" ; Times: 1
+	Query: "sipsey wilderness" ; Times: 2
+	Query: "62176" ; Times: 1
+	Query: "33940" ; Times: 1
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(31.431594899110514,-85.60819387435913))<29689.928540221517" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "14470" ; Times: 1
+	Query: "county:"dale" stateprovince:"Alabama" year <= 2015" ; Times: 1
+	Query: "alectis gulf" ; Times: 1
+	Query: "Conecuh National Forest country:"United States"" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama" ; Times: 15
+	Query: "county:"Calhoun" stateprovince:"alabama" year <= 2015" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:cragini genus:Etheostoma" ; Times: 1
+	Query: "lineola" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1084 download events in this period)
+Total number of records downloaded: 1867 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1289
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Dominican Republic ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pteronotropis euryzonus institutioncode:AUM" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 483
+Total number of records retrieved from searches: 13579
+Number of download events that retrieved data from the resource: 69
+Total number of records downloaded: 29633
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 520
+Total number of records retrieved from searches: 14179
+Number of download events that retrieved data from the resource: 83
+Total number of records downloaded: 31152
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,111 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 542
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 27
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Dominican Republic ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 3
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 5
+	Query: "32700" ; Times: 1
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "porotergus gymnotus" ; Times: 1
+	Query: "etheostoma nuchale" ; Times: 1
+	Query: "eric lee" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "coldwater county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Micropoecilia" ; Times: 1
+	Query: "ireng" ; Times: 2
+	Query: "42472 etheostoma stigmaeum" ; Times: 1
+	Query: "sylhet" ; Times: 2
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "AUM 53750" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "genus:elassoma county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "etheostoma boschungi" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "rhabdotus" ; Times: 2
+	Query: "genus:hypentelium county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "ltl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 823 download events in this period)
+Total number of records downloaded: 755
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: India ; Times: 1
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "sylhet" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "uganda" ; Times: 1
+
+
+End of report.

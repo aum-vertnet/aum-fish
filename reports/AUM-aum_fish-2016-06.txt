@@ -1,0 +1,180 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 403
+Number of records retrieved in searches: 5261
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 374
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 316
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-07 ; Times: 4
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 6
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 24
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-16 ; Times: 6
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-13 ; Times: 12
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "61180" ; Times: 1
+	Query: "Paloma" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "POLYDACTYLUS OCTONEMUS" ; Times: 4
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 9
+	Query: "pongo" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Andalusia" ; Times: 2
+	Query: "prochilodus aum" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "aum 40692" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "county:&#34;Chilton&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "noturus placidus" ; Times: 6
+	Query: "49990" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 14
+	Query: "26378" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "11139" ; Times: 4
+	Query: "prochilodus rubrotaeniatus" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "SCW" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "54714" ; Times: 1
+	Query: "polypteriformes" ; Times: 3
+	Query: "11899" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "27097" ; Times: 1
+	Query: "alestidae" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "specificepithet:parrai genus:Haemulon" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 79
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "locality:Cabana country:&#34;Colombia&#34;" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "59041" ; Times: 2
+	Query: "34844" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 5
+	Query: "38590" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "61247" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "specificepithet:labriformis genus:Epinephelus" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "winterbottomi" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:kessleri genus:Notarius" ; Times: 4
+	Query: "specificepithet:scituliceps genus:Synodus" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 22
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "alces alces   " ; Times: 3
+	Query: "50388" ; Times: 1
+	Query: "41594" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "18771" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "institutioncode:AUM" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1052 download events in this period)
+Total number of records downloaded: 107
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "atelopus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.

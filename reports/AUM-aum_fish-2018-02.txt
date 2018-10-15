@@ -1,0 +1,258 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 297
+Number of records retrieved in searches: 2654
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 42
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 53
+	Country: Czechia ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 185
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 18
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 6
+	Date: 2018-02-07 ; Times: 13
+	Date: 2018-02-06 ; Times: 9
+	Date: 2018-02-05 ; Times: 15
+	Date: 2018-02-21 ; Times: 28
+	Date: 2018-02-20 ; Times: 17
+	Date: 2018-02-23 ; Times: 12
+	Date: 2018-02-22 ; Times: 27
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 56
+	Date: 2018-02-26 ; Times: 24
+	Date: 2018-02-28 ; Times: 8
+	Date: 2018-02-14 ; Times: 10
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 10
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 9
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-19 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(45.9394632175,-94.9810641095))&lt;22927" ; Times: 4
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 4
+	Query: "Rivulidae" ; Times: 3
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Fluviphylax" ; Times: 1
+	Query: "genus:Percina hastissue:1" ; Times: 1
+	Query: "order:Cyprinodontiformes hastissue:1" ; Times: 6
+	Query: "family:Cichlidae country:&#34;Belize&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Microphilypnus Guyana" ; Times: 3
+	Query: "farlowella acus" ; Times: 2
+	Query: "AUM 53775" ; Times: 1
+	Query: "&#34;Esox lucius&#34; hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 4
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 3
+	Query: "scientificname:&#34;labeobarbus wurtzi&#34;" ; Times: 1
+	Query: "ablabes" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "scientificname:&#34;barbus eburneensis&#34;" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "TCWC" ; Times: 1
+	Query: "AUM 54212" ; Times: 2
+	Query: "scientificname:&#34;clypeobarbus pleuropholis&#34;" ; Times: 1
+	Query: "AUM 53813" ; Times: 1
+	Query: "scientificname:&#34;barbus guildi&#34;" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "scientificname:&#34;pteronotropis welaka&#34;" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "AUM 53596" ; Times: 1
+	Query: "Glossogobius giuris mappable:1" ; Times: 7
+	Query: "order:Myctophiformes hastissue:1" ; Times: 1
+	Query: "genus:Myctophum hastissue:1" ; Times: 1
+	Query: "scientificname:&#34;labeobarbus petitjeani&#34;" ; Times: 1
+	Query: "catalognumber:60000 institutioncode:AUM" ; Times: 1
+	Query: "scientificname:&#34;barbus bigornei&#34;" ; Times: 1
+	Query: "specificepithet:COLLIEI genus:Hydrolagus hastissue:1" ; Times: 1
+	Query: "AUM 44717" ; Times: 2
+	Query: "Pontinus" ; Times: 2
+	Query: "specificepithet:alberti genus:Hydrolagus hastissue:1" ; Times: 1
+	Query: "scientificname:&#34;barbus foutensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;clypeobarbus hypsolepis&#34;" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "15928" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 2
+	Query: "Glossogobius circumspectus mappable:1" ; Times: 1
+	Query: "AUM 54407" ; Times: 1
+	Query: "scientificname:&#34;clypeobarbus congicus&#34;" ; Times: 1
+	Query: "cichlid" ; Times: 1
+	Query: "distance(location,geopoint(44.6454142935001,-84.5505796995))&lt;11374" ; Times: 4
+	Query: "genus:Pimelodella country:&#34;Panama&#34;" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "&#34;Hypophthalmichthys nobilis&#34; hastissue:1" ; Times: 1
+	Query: "AUM 53654" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "AUM 53659" ; Times: 1
+	Query: "recordedby:Luna" ; Times: 1
+	Query: "Polypteriformes" ; Times: 2
+	Query: "hydrocynus goliath" ; Times: 2
+	Query: "Pseudocurimata troschelii" ; Times: 2
+	Query: "poecilia vivipara" ; Times: 1
+	Query: "hydrolycus scomberoides" ; Times: 4
+	Query: "specificepithet:alberti genus:Hydrolagus" ; Times: 1
+	Query: "AUM 54067" ; Times: 1
+	Query: "scientificname:&#34;barbus huguenyi&#34;" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "&#34;Micropterus dolomieu&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 16
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 4
+	Query: "AUM 39855" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 4
+	Query: "AUM 54394" ; Times: 2
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "scientificname:&#34;labeobarbus mawambiensis&#34;" ; Times: 1
+	Query: "AUM 43700" ; Times: 1
+	Query: "scientificname:&#34;labeobarbus caudovittatus&#34;" ; Times: 1
+	Query: "&#34;Pterygoplichthys pardalis&#34;" ; Times: 2
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Glossogobius koragensis mappable:1" ; Times: 1
+	Query: "Stenogobius laterisquamatus mappable:1" ; Times: 1
+	Query: "polypteriformes" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 4
+	Query: "Rhizoprionodon terraenovae" ; Times: 18
+	Query: "hemichromis" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "pectinatus" ; Times: 1
+	Query: "Stenogobius beauforti mappable:1" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "family:Myctophidae hastissue:1" ; Times: 1
+	Query: "specificepithet:reticulatus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Trichomycterus punctulatus" ; Times: 2
+	Query: "recordedby:Pitts year &gt;= 1970 year &lt;= 2000" ; Times: 1
+	Query: "scientificname:&#34;notropis uranoscopus&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus cf. macrops&#34;" ; Times: 1
+	Query: "&#34;Micropterus dolomieu&#34; hastissue:1" ; Times: 1
+	Query: "&#34;esox niger&#34; hastissue:1" ; Times: 4
+	Query: "Rhexipanchax" ; Times: 1
+	Query: "scientificname:&#34;barbus magdalenae&#34;" ; Times: 1
+	Query: "Buhoma" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "scientificname:&#34;barbus pobeguini&#34;" ; Times: 1
+	Query: "AUM 43300" ; Times: 1
+	Query: "Metynnis orinocensis" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Metynnis luna" ; Times: 5
+	Query: "exodon paradoxus" ; Times: 1
+	Query: "AUM 48210" ; Times: 1
+	Query: "scientificname:&#34;barbus martorelli&#34;" ; Times: 1
+	Query: "&#34;Oreochromis mossambicus&#34;" ; Times: 1
+	Query: "scientificname:&#34;labeo lukulae&#34;" ; Times: 1
+	Query: "recordedby:L. Luna" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "scientificname:&#34;trichomycterus guianense&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus raimbaulti&#34;" ; Times: 1
+	Query: "scientificname:&#34;labeobarbus sacratus&#34;" ; Times: 1
+	Query: "genus:Noturus stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Hydrolagus Alberti" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 21
+	Query: "family:aplocheilidae country:&#34;Panama&#34;" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 2
+	Query: "AUM 39292" ; Times: 1
+	Query: "fish locality:Duck River stateprovince:&#34;Tennessee&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 1
+	Query: "scientificname:&#34;barbus tiekoroi&#34;" ; Times: 1
+	Query: "Glossogobius bulmeri mappable:1" ; Times: 1
+	Query: "AUM 53512" ; Times: 1
+	Query: "scientificname:&#34;barbus inaequalis&#34;" ; Times: 1
+	Query: "AUM 53991" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "&#34;Esox niger&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 5
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "Macrognathus siamensis" ; Times: 2
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Plagioscion squamosissimus" ; Times: 3
+	Query: "scientificname:&#34;barbus dialonensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus ditinensis&#34;" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "scientificname:&#34;barbus guineensis&#34;" ; Times: 1
+	Query: "AUM 43551" ; Times: 1
+	Query: "Hydrolycus tatauaia" ; Times: 1
+	Query: "Parauchenoglanis" ; Times: 2
+	Query: "acipenseriformes" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Ctenopharyngodon idella hastissue:1" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 5
+	Query: "Hydrolycus wallacei" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1892 download events in this period)
+Total number of records downloaded: 12266
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "family:Apteronotidae continent:South America mappable:1" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "fish locality:Duck River stateprovince:&#34;Tennessee&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,216 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 1312
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 66
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 6
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 20
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 5
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-12 ; Times: 21
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-17 ; Times: 9
+	Date: 2018-04-14 ; Times: 4
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 5
+	Date: 2018-04-19 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 9
+	Query: "26781" ; Times: 1
+	Query: "Labeo longipinnis" ; Times: 1
+	Query: "scientificname:(Notropis girardi) country:United States mappable:1" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "chitala ornata" ; Times: 3
+	Query: "46441" ; Times: 1
+	Query: "mormyrops" ; Times: 1
+	Query: "scientificname:(Polyodon spathula) country:United States mappable:1" ; Times: 1
+	Query: "Polymixia hastissue:1" ; Times: 3
+	Query: "class:Actinopterygii county:&#34;Laurens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:asprella genus:Crystallaria stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "zea" ; Times: 1
+	Query: "pristobrycon" ; Times: 2
+	Query: "scientificname:(Petromyzon marinus) country:United States mappable:1" ; Times: 1
+	Query: "Trichomycterus guianense" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "apleurogramma" ; Times: 2
+	Query: "Hemiancistrus" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "34929" ; Times: 2
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 1
+	Query: "genus:Acaronia family:Cichlidae" ; Times: 1
+	Query: "Ambassidae hastissue:1" ; Times: 3
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "scientificname:(Margariscus nachtriebi) country:United States mappable:1" ; Times: 1
+	Query: "profundulus" ; Times: 1
+	Query: "Polycentridae hastissue:1" ; Times: 1
+	Query: "institutioncode:aum" ; Times: 3
+	Query: "Orestias hastissue:1" ; Times: 2
+	Query: "31224" ; Times: 1
+	Query: "Channa marulius" ; Times: 1
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1976 year &lt;= 1976" ; Times: 2
+	Query: "35872" ; Times: 1
+	Query: "Melanotaeniidae hastissue:1" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 2
+	Query: "ANSP 8133" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "specificepithet:liberiensis hastissue:1" ; Times: 2
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;McCormick&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "Pristobrycon striolatus" ; Times: 1
+	Query: "specificepithet:nachtriebi genus:Margariscus" ; Times: 1
+	Query: "scientificname:(Noturus flavus) country:United States mappable:1" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "labeo horie" ; Times: 1
+	Query: "&#34;Oncorhynchus mykiss&#34; hastissue:1" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "mormyrops anguilloides" ; Times: 5
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "Nandidae hastissue:1" ; Times: 2
+	Query: "Oreochromis aureus" ; Times: 3
+	Query: "Prochilodus reticulatus" ; Times: 2
+	Query: "&#34;Labeo macrostoma&#34;" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "scientificname:(Etheostoma camurum) country:United States mappable:1" ; Times: 1
+	Query: "Labeo lineatus" ; Times: 1
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "scientificname:(Etheostoma cragini) country:United States mappable:1" ; Times: 1
+	Query: "Mylossoma duriventre" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Labeo lukulae" ; Times: 1
+	Query: "petrocephalus" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "hemiancistrus" ; Times: 1
+	Query: "gbifdatasetid:d499aef2-b1d9-4890-aeb3-5f0d1237b513" ; Times: 2
+	Query: "Adrianichthyidae hastissue:1" ; Times: 1
+	Query: "Hoplerythrinus" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "Hiodon hastissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1359 download events in this period)
+Total number of records downloaded: 136785
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 43
+	Country: Argentina ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 34
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Hemiancistrus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "institutioncode:aum" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Channa marulius" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "gbifdatasetid:d499aef2-b1d9-4890-aeb3-5f0d1237b513" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,226 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1732
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Turkey ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 3
+	Country: Peru ; Times: 2
+	Country: United States ; Times: 154
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 8
+	Date: 2018-05-24 ; Times: 8
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 5
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-07 ; Times: 8
+	Date: 2018-05-04 ; Times: 45
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 9
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-11 ; Times: 8
+	Date: 2018-05-10 ; Times: 29
+	Date: 2018-05-13 ; Times: 3
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 5
+	Date: 2018-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(45.9394632175,-94.9810641095))&lt;22927" ; Times: 2
+	Query: "CM 9036" ; Times: 1
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:dimerus family:Cichlidae" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "specificepithet:bulleri genus:Paraneetroplus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:haitiensis family:Cichlidae" ; Times: 1
+	Query: "Striped bass" ; Times: 1
+	Query: "specificepithet:spurius genus:Heros" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "Labeo bata" ; Times: 3
+	Query: "Trichomycterus hasemani" ; Times: 1
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "scientificname:(Elassoma alabamae) country:United States mappable:1" ; Times: 1
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "Labeo forskalii" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 2
+	Query: "genus:Amphilophus" ; Times: 1
+	Query: "Labeo barbatus" ; Times: 1
+	Query: "typhlichthys" ; Times: 2
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "specificepithet:taenia family:Cichlidae" ; Times: 1
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "leporinus pearsoni" ; Times: 1
+	Query: "vntype:specimen continent:NORTH AMERICA recordedby:ARMSTRONG year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:guyanae family:Cichlidae" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "specificepithet:facetus genus:Australoheros" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:psittacus family:Cichlidae" ; Times: 1
+	Query: "genus:Cleithracara" ; Times: 1
+	Query: "gbifdatasetid:d499aef2-b1d9-4890-aeb3-5f0d1237b513" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "scientificname:(Noturus albater) country:United States mappable:1" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 2
+	Query: "noturus placidus" ; Times: 6
+	Query: "Morone americana " ; Times: 1
+	Query: "genus:Tomocichla" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "specificepithet:dimerus genus:Cichlasoma" ; Times: 2
+	Query: "specificepithet:pulcher genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:egregius institutioncode:AUM" ; Times: 1
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.6454142935001,-84.5505796995))&lt;11374" ; Times: 2
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "genus:Hypsophrys" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "specificepithet:guianensis family:Cichlidae" ; Times: 1
+	Query: "specificepithet:stergiosi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:tuyrense family:Cichlidae" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "specificepithet:sieboldii genus:Tomocichla" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 2
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "MLBS" ; Times: 3
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "Labeo greenii" ; Times: 2
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "specificepithet:bulleri genus:Paraneetroplus" ; Times: 1
+	Query: "tcwc" ; Times: 2
+	Query: "specificepithet:zamorensis genus:Bujurquina" ; Times: 2
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "genus:Australoheros" ; Times: 1
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "pseudochalceus" ; Times: 1
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "genus:Bujurquina" ; Times: 1
+	Query: "genus:Cryptoheros" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "genus:Krobia" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "institutioncode:AUM hastypestatus:1" ; Times: 3
+	Query: "genus:Guianacara" ; Times: 3
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "Melanotaeniidae year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:flavilabris family:Cichlidae" ; Times: 1
+	Query: "A. G. Burr" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "genus:Theraps" ; Times: 1
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus suttkusi) country:United States mappable:1" ; Times: 1
+	Query: "genus:Petenia" ; Times: 1
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "scientificname:(Moxostoma carinatum) country:United States mappable:1" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "specificepithet:itanyi family:Cichlidae" ; Times: 1
+	Query: "Paramormyrops sphekodes" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "specificepithet:hophrys" ; Times: 1
+	Query: "specificepithet:vultuosa genus:Acaronia institutioncode:AUM" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "Brazil hastypestatus:1 hastissue:1" ; Times: 2
+	Query: "specificepithet:huallagae family:Cichlidae" ; Times: 1
+	Query: "genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "labeo macrostoma" ; Times: 1
+	Query: "Labeo fulakariensis" ; Times: 1
+	Query: "Kingsleyae" ; Times: 1
+	Query: "specificepithet:sieboldii genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "specificepithet:egregius genus:Mesonauta" ; Times: 1
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "buhoma" ; Times: 1
+	Query: "specificepithet:scitulus genus:Australoheros" ; Times: 2
+	Query: "&#34;labeo nasus&#34;" ; Times: 1
+	Query: "specificepithet:eurhinus family:Cichlidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:adscensionis genus:epinephelus hastissue:1" ; Times: 1
+	Query: "specificepithet:dacrya family:Cichlidae" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "Trichomycterus lewi" ; Times: 3
+	Query: "rmnh" ; Times: 2
+	Query: "50785" ; Times: 2
+	Query: "specificepithet:vultuosa genus:Acaronia" ; Times: 1
+	Query: "specificepithet:ornatum family:Cichlidae" ; Times: 1
+	Query: "Labeo gonius" ; Times: 3
+	Query: "specificepithet:hophrys family:Cichlidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1178 download events in this period)
+Total number of records downloaded: 4521
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.

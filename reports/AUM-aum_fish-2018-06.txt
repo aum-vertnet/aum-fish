@@ -1,0 +1,174 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 882
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 115
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 13
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-29 ; Times: 9
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-21 ; Times: 14
+	Date: 2018-06-20 ; Times: 17
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 11
+	Date: 2018-06-14 ; Times: 8
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 9
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "specificepithet:stergiosi family:Cichlidae institutioncode:AUM" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 6
+	Query: "TCWC" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "mylesinus" ; Times: 2
+	Query: "49503" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "corniger" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "specificepithet:facetus family:Cichlidae" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "Naso lituratus" ; Times: 3
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "specificepithet:stergiosi family:Cichlidae" ; Times: 1
+	Query: "lebiasina" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "buhoma" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "36384`1" ; Times: 1
+	Query: "genus:fluviphylax hastissue:1" ; Times: 1
+	Query: "cyprinodontiformes cyprinodon order:Cyprinodontiformes hastissue:1" ; Times: 3
+	Query: "21294" ; Times: 1
+	Query: "Adrianichthyidae hastissue:1" ; Times: 1
+	Query: "specificepithet:facetus family:Cichlidae institutioncode:AUM" ; Times: 1
+	Query: "locality:Hill Creek county:&#34;Bibb&#34;" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "specificepithet:cataphractus" ; Times: 2
+	Query: "specificepithet:taeniata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "fluviphylax" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "Orestias hastissue:1" ; Times: 3
+	Query: "genus:platypanchax hastissue:1" ; Times: 2
+	Query: "64939" ; Times: 1
+	Query: "Labeo greenii" ; Times: 1
+	Query: "&#34;Malapterurus melanochir&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; institutioncode:AUM" ; Times: 1
+	Query: "specificepithet:urophthalmus family:Cichlidae institutioncode:AUM" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "vandellia sanguinea" ; Times: 1
+	Query: "Bay Minette" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "specificepithet:buckleyi " ; Times: 1
+	Query: "Fluviphylax hastissue:1" ; Times: 3
+	Query: "42139-1" ; Times: 1
+	Query: "genus:orestias hastissue:1" ; Times: 6
+	Query: "Trichomycterus Suriname" ; Times: 5
+	Query: "confinis hastissue:1" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Gila bicolor" ; Times: 1
+	Query: "Hyphessobrycon bentosi" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "cyprinodontidae hastissue:1" ; Times: 2
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "orestias" ; Times: 1
+	Query: "locality:Xilitla stateprovince:&#34;San Luis Potosí&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "56785" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "vandellia beccarii" ; Times: 1
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "country:&#34;Panama&#34; (inguinalis OR panamansis OR panamensis) hastissue:1" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "cyprinodontiformes order:Cyprinodontiformes hastissue:1" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1169 download events in this period)
+Total number of records downloaded: 550
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "sea turtle" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Cougar" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "pond turtle" ; Times: 1
+
+
+End of report.

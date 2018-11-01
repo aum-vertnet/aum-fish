@@ -1,0 +1,210 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 466
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 120
+	Country: Netherlands ; Times: 8
+	Country: Ireland ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Venezuela ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-05 ; Times: 5
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 7
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 14
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-27 ; Times: 7
+	Date: 2018-10-24 ; Times: 13
+	Date: 2018-10-03 ; Times: 4
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 5
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 4
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 12
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 12
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-16 ; Times: 7
+	Date: 2018-10-15 ; Times: 47
+
+List of queries that retrieved data from the resource: 
+	Query: "17713" ; Times: 1
+	Query: "specificepithet:jae genus:Barbus institutioncode:AUM" ; Times: 1
+	Query: "Trinectes maculatus Chesapeake Bay" ; Times: 2
+	Query: "54116" ; Times: 1
+	Query: "Roeboides bouchellei" ; Times: 2
+	Query: "Pterygoplichthys zuliaensis" ; Times: 1
+	Query: "catalognumber:9690 hastissue:1" ; Times: 1
+	Query: "Pseudophallus starksii" ; Times: 1
+	Query: "ghost fish" ; Times: 1
+	Query: "Diplogrammus goramensis" ; Times: 1
+	Query: "Cosmocampus elucens mappable:1" ; Times: 1
+	Query: "catalognumber:54437 institutioncode:AUM" ; Times: 2
+	Query: "Rhinecanthus verrucosus" ; Times: 1
+	Query: "genus:Catostomus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "louisianna" ; Times: 1
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "Pseudancistrus barbatus" ; Times: 1
+	Query: "Balistoides niger" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "locality:apurimac country:&#34;peru&#34;" ; Times: 1
+	Query: "Microphis manadensis" ; Times: 1
+	Query: "Cosmocampus albirostris" ; Times: 1
+	Query: "Cosmocampus elucens" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "noturus placidus" ; Times: 12
+	Query: "vntype:specimen genus:Opisthonema hastissue:1" ; Times: 1
+	Query: "sebastes hastissue:1" ; Times: 1
+	Query: "Pangasius micronemus" ; Times: 1
+	Query: "pristipomoides" ; Times: 1
+	Query: "Lactophrys triqueter" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Apurimac" ; Times: 1
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "12394" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "catalognumber:9666 hastissue:1" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "Alosa pseudoharengus Chesapeake Bay" ; Times: 3
+	Query: "Pseudophallus starksii mappable:1" ; Times: 1
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "NK 53269" ; Times: 2
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "rosae" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "catalognumber:9630 hastissue:1" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "bobolink hastissue:1" ; Times: 2
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "22838" ; Times: 1
+	Query: "hypostomus rhantos" ; Times: 1
+	Query: "hypostomus pyrineusi" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Syngnathus griseolineatus" ; Times: 1
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "Microphis lineatus mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "Menidia beryllina Chesapeake Bay" ; Times: 3
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "Hypleurochilus geminatus" ; Times: 1
+	Query: "Corythoichthys albirostris" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "catalognumber:42162 hastissue:1" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Menidia menidia Chesapeake Bay" ; Times: 4
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "Microphis manadensis mappable:1" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Syngnathus springeri" ; Times: 1
+	Query: "locality:maria madre" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "lates niloticus hastissue:1" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 2
+	Query: "lates niloticus" ; Times: 1
+	Query: "Acipenser transmontanus mappable:1" ; Times: 1
+	Query: "Microphis retzii mappable:1" ; Times: 1
+	Query: "Syngnathus rousseau" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "fish photographs" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "hypostomus plecostomoides" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "rock minnesota" ; Times: 1
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "Callionymus phaeton" ; Times: 1
+	Query: "Callionymus phaeton mappable:1" ; Times: 1
+	Query: "Pterygoplichthys weberi" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "Phenacogrammus interruptus" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Microphis boaja" ; Times: 1
+	Query: "Microphis retzii" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Nueva Ecija" ; Times: 1
+	Query: "Microphis brachyurus mappable:1" ; Times: 3
+	Query: "15546" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "Callionymus bairdi" ; Times: 2
+	Query: "Pongo" ; Times: 1
+	Query: "specificepithet:jae genus:barbus institutioncode:AUM" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "catalognumber:9663 hastissue:1" ; Times: 1
+	Query: "genus:Brienomyrus hastissue:1" ; Times: 1
+	Query: "acestridium" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1300 download events in this period)
+Total number of records downloaded: 186
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "fish country: &#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.

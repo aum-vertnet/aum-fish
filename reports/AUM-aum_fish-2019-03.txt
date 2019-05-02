@@ -1,0 +1,208 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 274
+Number of records retrieved in searches: 1408
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 11
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Finland ; Times: 4
+	Country: France ; Times: 178
+	Country: United States ; Times: 46
+	Country: Germany ; Times: 9
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 2
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-08 ; Times: 25
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-05 ; Times: 4
+	Date: 2019-03-04 ; Times: 16
+	Date: 2019-03-07 ; Times: 36
+	Date: 2019-03-06 ; Times: 21
+	Date: 2019-03-01 ; Times: 66
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-31 ; Times: 9
+	Date: 2019-03-18 ; Times: 8
+	Date: 2019-03-19 ; Times: 4
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 24
+	Date: 2019-03-15 ; Times: 8
+	Date: 2019-03-12 ; Times: 11
+	Date: 2019-03-13 ; Times: 12
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardinella aurita mappable:1" ; Times: 2
+	Query: "Potamotrygon" ; Times: 1
+	Query: "Hyphessobrycon herbertaxelrodi" ; Times: 1
+	Query: "Hymenocephalus italicus mappable:1" ; Times: 5
+	Query: "Hydrocynus goliath" ; Times: 1
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "Channa hastissue:1" ; Times: 4
+	Query: "Cephalopholis fulva mappable:1" ; Times: 2
+	Query: "order:Lepisosteiformes hastissue:1" ; Times: 1
+	Query: "specificepithet:oglinum genus:Opisthonema" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 2
+	Query: "catalognumber:2658 institutioncode:AUM" ; Times: 1
+	Query: "Haemulon melanurum mappable:1" ; Times: 9
+	Query: "TCWC" ; Times: 4
+	Query: "locality:cenote stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "gila atraria mappable:1" ; Times: 2
+	Query: "gbifdatasetid:d499aef2-b1d9-4890-aeb3-5f0d1237b513" ; Times: 1
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "20284" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 4
+	Query: "catalognumber:40669 institutioncode:AUM" ; Times: 1
+	Query: "Puntius sophore" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "Trachinotus goodei mappable:1" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Fistularia tabacaria mappable:1" ; Times: 9
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Synodus poeyi mappable:1" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "specificepithet:cobitis genus:Rhinichthys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Chromis multilineata mappable:1" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Rasbora borapetensis" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Squalus cubensis mappable:1" ; Times: 4
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Decodon puellaris mappable:1" ; Times: 9
+	Query: "Synodus intermedius mappable:1" ; Times: 2
+	Query: "Yarrella blackfordi" ; Times: 1
+	Query: "Opsarius koratensis" ; Times: 2
+	Query: "Pristipomoides aquilonaris mappable:1" ; Times: 5
+	Query: "santarosae" ; Times: 1
+	Query: "Opisthonema oglinum" ; Times: 6
+	Query: "Galeocharax" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 1
+	Query: "Diplectrum formosum mappable:1" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Mycteroperca interstitialis mappable:1" ; Times: 2
+	Query: "racoon" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 2
+	Query: "25127" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "Selene vomer mappable:1" ; Times: 3
+	Query: "Mustelus canis mappable:1" ; Times: 3
+	Query: "specificepithet:sucetta genus:erimyzon institutioncode:AUM" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 2
+	Query: "54495" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 6
+	Query: "family:Polypteridae hastissue:1" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "Nezumia aequalis mappable:1" ; Times: 5
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 7
+	Query: "Selene setapinnis mappable:1" ; Times: 3
+	Query: "Paranthias furcifer mappable:1" ; Times: 4
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 7
+	Query: "62264" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "country:&#34;United States&#34; institutioncode:AUM distance(location,geopoint(43.82350154288786,-83.69513969020227))&lt;205918" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "&#34;morone americana&#34;" ; Times: 3
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "genus:Hiodon hastissue:1" ; Times: 1
+	Query: "order:Lepidosireniformes hastissue:1" ; Times: 3
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Mullus auratus mappable:1" ; Times: 6
+	Query: "Peprilus paru mappable:1" ; Times: 2
+	Query: "&#34;Barbodes rhombeus&#34; OR &#34;Puntius rhombeus&#34;" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "Puntius brevis" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 2
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 1
+	Query: "Serranus atrobranchus mappable:1" ; Times: 2
+	Query: "37157" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "specificepithet:pallididorsum genus:Etheostoma" ; Times: 2
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Epinephelus adscensionis mappable:1" ; Times: 2
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "54471" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Trachinotus falcatus mappable:1" ; Times: 2
+	Query: "25563" ; Times: 1
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "genus:Erpetoichthys hastissue:1" ; Times: 2
+	Query: "Opsarius" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 5
+	Query: "39771" ; Times: 1
+	Query: "rom 54325" ; Times: 3
+	Query: "rom 54328" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 8
+	Query: "Gymnothorax ocellatus mappable:1" ; Times: 2
+	Query: "Coelorinchus caribbaeus mappable:1" ; Times: 5
+	Query: "Haemulon striatum mappable:1" ; Times: 2
+	Query: "erythrogaster ohio" ; Times: 2
+	Query: "Aluterus schoepfii mappable:1" ; Times: 5
+	Query: "Mormyridae cyphomyrus" ; Times: 1
+	Query: "genus:Polypterus hastissue:1" ; Times: 1
+	Query: "specificepithet:claviformis genus:erimyzon" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon institutioncode:AUM hastissue:1" ; Times: 1
+	Query: "Halosaurus guentheri" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: ".mp3" ; Times: 1
+	Query: "fish from honduras" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1281 download events in this period)
+Total number of records downloaded: 44
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;morone americana&#34;" ; Times: 1
+	Query: "locality:cenote stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "petenia splendida" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "Acanthemblemaria spinosa" ; Times: 1
+	Query: "fish from honduras" ; Times: 1
+
+
+End of report.

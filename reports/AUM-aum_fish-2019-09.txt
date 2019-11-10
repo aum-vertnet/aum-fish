@@ -1,0 +1,165 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 1018
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 5
+	Country: France ; Times: 26
+	Country: United Kingdom ; Times: 4
+	Country: Rwanda ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 19
+	Date: 2019-09-11 ; Times: 26
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 14
+	Date: 2019-09-02 ; Times: 10
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-04 ; Times: 6
+	Date: 2019-09-21 ; Times: 9
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-25 ; Times: 7
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 7
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "15722" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "Centropristis ocyura mappable:1" ; Times: 1
+	Query: "Grizzle museum specimens" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "47798" ; Times: 1
+	Query: "Amblypharyngodon mola" ; Times: 4
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "SUI" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "alosa alabamae" ; Times: 1
+	Query: "genus:Serrabrycon" ; Times: 1
+	Query: "ANSP 4467" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:trichomycteridae institutioncode:AUM" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "genus:mylossoma country:&#34;ecuador&#34;" ; Times: 21
+	Query: "Prionotus paralatus mappable:1" ; Times: 1
+	Query: "Cyphocharax magdalenae" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "vitreus Sander" ; Times: 4
+	Query: "Henonemus punctatus" ; Times: 2
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "sui" ; Times: 1
+	Query: "ablabes" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "Ramsey county:&#34;Lee&#34; stateprovince:&#34;Alabama&#34; fieldnumber:JSR year &gt;= 1970 year &lt;= 1970" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 5
+	Query: "cataphractus" ; Times: 1
+	Query: "family:trichomycteridae preparations:C&amp;S institutioncode:AUM" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "genus:ituglanis institutioncode:AUM" ; Times: 2
+	Query: "Cichla ocellaris mappable:1" ; Times: 3
+	Query: "21870" ; Times: 1
+	Query: "Synagrops spinosus mappable:1" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "Hypostomus niceforoi" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "pass institutioncode:AUM" ; Times: 1
+	Query: "locality:rio tambopata stateprovince:&#34;madre de dios&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "Geotria australis" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Pontinus longispinis mappable:1" ; Times: 1
+	Query: "45583" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Beta fish" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Coelorinchus caelorinchus mappable:1" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Ramsey county:&#34;Lee&#34; stateprovince:&#34;Alabama&#34; year &gt;= 1970 year &lt;= 1970" ; Times: 1
+	Query: "genus:ituglanis preparations:etoh institutioncode:AUM" ; Times: 1
+	Query: "catalognumber:43387 institutioncode:AUM" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Poecilopsetta beanii mappable:1" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 4
+	Query: "32960" ; Times: 1
+	Query: "class:Actinopterygii locality:Little River stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "CM 58088" ; Times: 4
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;DeKalb&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Haemomaster venezuelae" ; Times: 2
+	Query: "tcwc" ; Times: 1
+	Query: "Prionotus longispinosus mappable:1" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "Cyprinella callitaenia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1073 download events in this period)
+Total number of records downloaded: 352
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.

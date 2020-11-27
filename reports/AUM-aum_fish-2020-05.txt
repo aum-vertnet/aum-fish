@@ -1,0 +1,209 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 838
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 6
+	Country: United States ; Times: 137
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 4
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 5
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 5
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-15 ; Times: 8
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 13
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 8
+	Date: 2020-05-06 ; Times: 20
+	Date: 2020-05-04 ; Times: 7
+	Date: 2020-05-03 ; Times: 19
+	Date: 2020-05-02 ; Times: 47
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "fieldnumber:14-31 institutioncode:AUM" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "fieldnumber:14-35 institutioncode:AUM" ; Times: 2
+	Query: "specificepithet:goodei genus:Lucania stateprovince:&#34;Alabama&#34; institutioncode:AUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "fieldnumber:16-29 institutioncode:AUM" ; Times: 4
+	Query: "57822" ; Times: 1
+	Query: "county:&#34;Lamar&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:63677 institutioncode:AUM" ; Times: 4
+	Query: "46562" ; Times: 1
+	Query: "genus:Chiloglanis institutioncode:AUM" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "TCWC" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "fieldnumber:GUY 14-35 institutioncode:AUM" ; Times: 2
+	Query: "34410" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "fieldnumber:GUY 16-25 institutioncode:AUM" ; Times: 2
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "class:Actinopterygii locality:iguazu country:&#34;Argentina&#34;" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "locality:Yeguada country:&#34;Panama&#34;" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "catalognumber:67154 institutioncode:AUM" ; Times: 2
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "hyphessobrycon eques" ; Times: 1
+	Query: "fieldnumber:16-28 institutioncode:AUM" ; Times: 3
+	Query: "catalognumber:67172 institutioncode:AUM" ; Times: 2
+	Query: "catalognumber:67179 institutioncode:AUM" ; Times: 2
+	Query: "ANSP-3775" ; Times: 2
+	Query: "scientificname:(Notropis rafinesquei) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:51758 institutioncode:AUM" ; Times: 2
+	Query: "osteochilus vittatus" ; Times: 2
+	Query: "scientificname:(Harengula jaguana OR Harengula pensacolae) country:United States mappable:1" ; Times: 1
+	Query: "fieldnumber:14-33 institutioncode:AUM" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "fieldnumber:16- institutioncode:AUM" ; Times: 2
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "scientificname:(Erimystax harryi) country:United States mappable:1" ; Times: 1
+	Query: "locality:Veraguas country:&#34;Panama&#34;" ; Times: 2
+	Query: "catalognumber:28784" ; Times: 1
+	Query: "fieldnumber:16-30 institutioncode:AUM" ; Times: 1
+	Query: "fieldnumber:16-34 institutioncode:AUM" ; Times: 1
+	Query: "locality:Yeguada country:&#34;Panamá&#34;" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "ANSP 1316" ; Times: 1
+	Query: "(moffett)" ; Times: 1
+	Query: "pachynema" ; Times: 1
+	Query: "catalognumber:62902 institutioncode:AUM" ; Times: 2
+	Query: "67565" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "58664" ; Times: 1
+	Query: "catalognumber:67194 institutioncode:AUM" ; Times: 2
+	Query: "scientificname:(Etheostoma raneyi) country:United States mappable:1" ; Times: 1
+	Query: "fieldnumber:16-31 institutioncode:AUM" ; Times: 3
+	Query: "MVZ 15603" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "locality:La Yeguada country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:58144 institutioncode:AUM" ; Times: 2
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "fieldnumber:16-33 institutioncode:AUM" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "catalognumber:62932 institutioncode:AUM" ; Times: 4
+	Query: "12549" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "ANSP-3828" ; Times: 1
+	Query: "fieldnumber:16-27 institutioncode:AUM" ; Times: 3
+	Query: "fieldnumber:16-25 institutioncode:AUM" ; Times: 2
+	Query: "64733" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "fieldnumber:14-38 institutioncode:AUM" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "scientificname:(Noturus phaeus) country:United States mappable:1" ; Times: 1
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "catalognumber:62949 institutioncode:AUM" ; Times: 1
+	Query: "catalognumber:67129 institutioncode:AUM" ; Times: 4
+	Query: "38185" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:La Yeguada country:&#34;Panamá&#34;" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "catalognumber:58053 institutioncode:AUM" ; Times: 3
+	Query: "scientificname:(Noturus hildebrandi) country:United States mappable:1" ; Times: 1
+	Query: "esomus metallicus" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "scientificname:(Etheostoma euzonum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:67138 institutioncode:AUM" ; Times: 2
+	Query: "fieldnumber:16-32 institutioncode:AUM" ; Times: 3
+	Query: "fieldnumber:16-26 institutioncode:AUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1106 download events in this period)
+Total number of records downloaded: 516
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-03 ; Times: 9
+	Date: 2020-05-02 ; Times: 6
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "fieldnumber:16-25 institutioncode:AUM" ; Times: 1
+	Query: "osteochilus vittatus" ; Times: 1
+	Query: "fieldnumber:14-38 institutioncode:AUM" ; Times: 1
+	Query: "fieldnumber:14-31 institutioncode:AUM" ; Times: 1
+	Query: "fieldnumber:16-26 institutioncode:AUM" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "fieldnumber:16-27 institutioncode:AUM" ; Times: 1
+	Query: "fieldnumber:14-35 institutioncode:AUM" ; Times: 2
+	Query: "fieldnumber:16-28 institutioncode:AUM" ; Times: 2
+	Query: "fieldnumber:14-33 institutioncode:AUM" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "fieldnumber:16-30 institutioncode:AUM" ; Times: 1
+	Query: "fieldnumber:16-33 institutioncode:AUM" ; Times: 1
+	Query: "fieldnumber:16-31 institutioncode:AUM" ; Times: 1
+	Query: "fieldnumber:16-34 institutioncode:AUM" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "fieldnumber:GUY 14-35 institutioncode:AUM" ; Times: 1
+
+
+End of report.

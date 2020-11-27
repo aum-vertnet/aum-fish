@@ -1,0 +1,243 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 938
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 131
+	Country: Qatar ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 3
+	Country: French Guiana ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-03 ; Times: 49
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 5
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 25
+	Date: 2020-02-05 ; Times: 7
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 9
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 8
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 3
+	Date: 2020-02-19 ; Times: 5
+	Date: 2020-02-18 ; Times: 5
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-27 ; Times: 7
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 2
+	Query: "39343" ; Times: 1
+	Query: "scientificname:(Chrosomus neogaeus OR Phoxinus neogaeus) country:United States mappable:1" ; Times: 2
+	Query: "17161" ; Times: 1
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "Brycon argenteus" ; Times: 1
+	Query: "Micropoecilia picta" ; Times: 2
+	Query: "Haemulon melanurum mappable:1" ; Times: 1
+	Query: "Glaucostegus" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "sundarbans" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "hippo" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "54329" ; Times: 2
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "pai" ; Times: 2
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "ANSP 3545" ; Times: 1
+	Query: "UF 187151" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "scientificname:(Fundulus jenkinsi) country:United States mappable:1" ; Times: 1
+	Query: "clarkii Catostomus" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "scientificname:(Etheostoma trisella) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Brachyrhaphis roseni" ; Times: 1
+	Query: "nematogobius" ; Times: 1
+	Query: "Characidium marshi" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "16240" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Amphilophus lyonsi" ; Times: 2
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "Pterobrycon" ; Times: 1
+	Query: "scientificname:(Etheostoma cinereum) country:United States mappable:1" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "JM 1119" ; Times: 2
+	Query: "class:actinopterygii stateprovince:&#34;Chiapas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "catalognumber:23185 collectioncode:fish" ; Times: 1
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "specificepithet:fontinalis genus:Salvelinus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus munitus) country:United States mappable:1" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "catalognumber:48846 institutioncode:AUM" ; Times: 1
+	Query: "Pseudocheirodon terrabae" ; Times: 1
+	Query: "pantostictus" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "ANSP 4457" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "scientificname:(Noturus nocturnus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "genus:Polypterus institutioncode:AUM" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Noturus gladiator) country:United States mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "juliae" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Fundulus julisia) country:United States mappable:1" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "scientificname:(Percina kusha) country:United States mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "etheostoma phytophilum" ; Times: 4
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "specificepithet:lombardoi" ; Times: 2
+	Query: "Awaous Transandeanus" ; Times: 1
+	Query: "scientificname:(Etheostoma brevirostrum) country:United States mappable:1" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "Microdesmus" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 2
+	Query: "Protopterus" ; Times: 1
+	Query: "scientificname:(Noturus gilberti) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis stramineus OR Notropis ludibundus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Percina williamsi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus insignis) country:United States mappable:1" ; Times: 4
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "catalognumber:67194 institutioncode:AUM" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "Hypostomus cochliodon" ; Times: 1
+	Query: "scientificname:(Pimephales tenellus) country:United States mappable:1" ; Times: 1
+	Query: "Gephyrocharax" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "catalognumber:22728 institutioncode:AUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1023 download events in this period)
+Total number of records downloaded: 6843
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Iraq ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Arequipa" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Monachus" ; Times: 1
+
+
+End of report.

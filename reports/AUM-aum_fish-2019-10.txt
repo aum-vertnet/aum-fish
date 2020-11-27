@@ -1,0 +1,231 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 758
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 137
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 21
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 43
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 23
+	Date: 2019-10-23 ; Times: 30
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 15
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 14
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 5
+	Date: 2019-10-30 ; Times: 8
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 7
+	Date: 2019-10-17 ; Times: 39
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma flabellare mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Percina nigrofasciata mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Raja texana" ; Times: 2
+	Query: "Luxilus cornutus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Erimyzon oblongus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Micropterus chattahoochee mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 3
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "39463" ; Times: 1
+	Query: "Pylodictis olivaris mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "71340" ; Times: 1
+	Query: "R. M. Norris AND Island" ; Times: 1
+	Query: "notropis blennius" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Ameiurus natalis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "oso negro" ; Times: 1
+	Query: "Narcine brunnea" ; Times: 2
+	Query: "Etheostoma camurum mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Notemigonus crysoleucas mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "62920" ; Times: 1
+	Query: "Glaucostegus granulatus" ; Times: 2
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "52702" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Nocomis micropogon mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Lucania parva mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Gymnura poecilura" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Luxilus chrysocephalus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "32783" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Nocomis leptocephalus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "71718" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "Chiloscyllium plagiosum" ; Times: 2
+	Query: "Noturus leptacanthus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Leiostomus xanthurus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "Squatina david" ; Times: 1
+	Query: "Etheostoma rafinesquei" ; Times: 1
+	Query: "Etheostoma zonale mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Ambloplites rupestris mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Ericymba buccata mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "Notropis stramineus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "SP 11608" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "polypteriformes" ; Times: 1
+	Query: "Acantharchus pomotis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Papyrocranus" ; Times: 1
+	Query: "Etheostoma fusiforme mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Hybopsis amblops mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Lepomis megalotis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "cichla monoculus" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "63905" ; Times: 1
+	Query: "Menidia menidia mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "temensis Cichla" ; Times: 2
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "Mola mola mappable:0" ; Times: 21
+	Query: "Micropterus punctulatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 3
+	Query: "Etheostoma caeruleum mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Lepomis macrochirus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Menidia beryllina mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Lepomis gulosus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Gambusia affinis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Hypentelium nigricans mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Enneacanthus chaetodon mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "Lepomis auritus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "66686" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "Percina brevicauda" ; Times: 1
+	Query: "Campostoma anomalum mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Scoliodon laticaudus" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "Anacanthobatis folirostris" ; Times: 2
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "menidia audens" ; Times: 2
+	Query: "Esox masquinongy mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Amblypharyngodon mola" ; Times: 1
+	Query: "Ichthyomyzon bdellium mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "52049" ; Times: 1
+	Query: "Enneacanthus obesus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Lepomis cyanellus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Hydrolagus alberti" ; Times: 1
+	Query: "Pomoxis annularis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Aphredoderus sayanus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Etheostoma blennioides mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "toxotes" ; Times: 1
+	Query: "Umbra pygmaea mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Pimephales notatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Lepomis punctatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "Semotilus atromaculatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Micropterus salmoides mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 3
+	Query: "Etmopterus schultzi" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "67534" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "rmnh" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "Squatina californica" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1308 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "platypus" ; Times: 2
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+
+
+End of report.

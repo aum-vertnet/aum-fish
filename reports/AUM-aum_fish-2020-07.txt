@@ -1,0 +1,305 @@
+Report for Institution Code AUM, Resource aum_fish
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 320
+Number of records retrieved in searches: 1549
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 23
+	Country: Venezuela ; Times: 2
+	Country: France ; Times: 215
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 57
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-20 ; Times: 8
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 5
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-29 ; Times: 6
+	Date: 2020-07-02 ; Times: 29
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 195
+	Date: 2020-07-06 ; Times: 5
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 5
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 8
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-16 ; Times: 10
+	Date: 2020-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "Ecuador El Oro Santa Rosa" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Syacium micrurum mappable:1" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Cephalopholis fulva mappable:1" ; Times: 2
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "Venezuela Caicara Rio Orinoco" ; Times: 1
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 1
+	Query: "Haemulon melanurum mappable:1" ; Times: 2
+	Query: "Scartella cristata mappable:1" ; Times: 3
+	Query: "Scomberomorus cavalla mappable:1" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Cosmocampus elucens mappable:1" ; Times: 2
+	Query: "27204" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 2
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 2
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Bathygobius soporator mappable:1" ; Times: 3
+	Query: "Parablennius marmoreus mappable:1" ; Times: 1
+	Query: "Synodus foetens mappable:1" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Ophichthus gomesii mappable:1" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "Trichogaster fasciata" ; Times: 1
+	Query: "Caranx sexfasciatus mappable:1" ; Times: 1
+	Query: "MCNG" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 1
+	Query: "limbatus" ; Times: 1
+	Query: "locality:foster fish" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Echiophis punctifer mappable:1" ; Times: 3
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Serrasalmus irritans" ; Times: 1
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Decodon puellaris mappable:1" ; Times: 1
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 1
+	Query: "Synodus poeyi mappable:1" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Mustelus canis mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Hypophthalmus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Lutjanus synagris mappable:1" ; Times: 2
+	Query: "Chromis multilineata mappable:1" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Caranx crysos mappable:1" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 3
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Achirus lineatus mappable:1" ; Times: 2
+	Query: "Sphyrna tiburo mappable:1" ; Times: 1
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "specificepithet:bifascia genus:Ammocrypta stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "locality:foster fish county:&#34;tuscaloosa&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Paranthias furcifer mappable:1" ; Times: 2
+	Query: "Polyipnus asteroides mappable:1" ; Times: 1
+	Query: "Costa Rica Buenos Aires" ; Times: 1
+	Query: "Boca Amazonas" ; Times: 1
+	Query: "Trachinotus goodei mappable:1" ; Times: 3
+	Query: "Trachinocephalus myops mappable:1" ; Times: 1
+	Query: "ANSP-3775" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "genus:Hypophthalmus" ; Times: 2
+	Query: "Oreochromis mossambicus mappable:1" ; Times: 2
+	Query: "13222" ; Times: 1
+	Query: "Coelorinchus occa mappable:1" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Harengula humeralis mappable:1" ; Times: 1
+	Query: "70414" ; Times: 1
+	Query: "Squalus cubensis mappable:1" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 2
+	Query: "Fistularia tabacaria mappable:1" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "Bregmaceros atlanticus mappable:1" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "locality:Sipsey county:&#34;Tuscaloosa&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Pristipomoides aquilonaris mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 2
+	Query: "Trachinotus carolinus mappable:1" ; Times: 1
+	Query: "colombia la sierra" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 2
+	Query: "Serranus atrobranchus mappable:1" ; Times: 1
+	Query: "specificepithet:radiosum genus:etheostoma" ; Times: 1
+	Query: "Diplectrum formosum mappable:1" ; Times: 1
+	Query: "Eleotris amblyopsis mappable:1" ; Times: 3
+	Query: "Erotelis smaragdus mappable:1" ; Times: 3
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 2
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "Symphurus plagiusa mappable:1" ; Times: 2
+	Query: "Rockstone guiana" ; Times: 1
+	Query: "family:Pimelodidae locality:Tumi country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "etheostoma radiosum" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 3
+	Query: "Peru Orosa Rio Amazonas" ; Times: 1
+	Query: "Anchoviella perfasciata" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "Cycleptus elongatus" ; Times: 1
+	Query: "Hymenocephalus italicus mappable:1" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "MAR 8559" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 3
+	Query: "Selene vomer mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Nezumia aequalis mappable:1" ; Times: 1
+	Query: "pethia" ; Times: 3
+	Query: "Cichla orinocensis" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "Selene setapinnis mappable:1" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Ariosoma balearicum mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "Lepidomeda vittata" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 3
+	Query: "Evorthodus lyricus mappable:1" ; Times: 3
+	Query: "Etmopterus hillianus mappable:1" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Mycteroperca interstitialis mappable:1" ; Times: 2
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Gymnothorax ocellatus mappable:1" ; Times: 1
+	Query: "Coelorinchus caribbaeus mappable:1" ; Times: 1
+	Query: "Melamphaes pumilus mappable:1" ; Times: 1
+	Query: "locality:Kolkata stateprovince:&#34;West Bengal&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "TCWC" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 2
+	Query: "Eucinostomus gula mappable:1" ; Times: 3
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "locality:foster fish stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 2
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "county:&#34;Stephens&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Strongylura marina mappable:1" ; Times: 1
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 2
+	Query: "Pethia" ; Times: 6
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 2
+	Query: "Peru Amazonas Orosa" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 2
+	Query: "Bembrops gobioides mappable:1" ; Times: 1
+	Query: "Eleotris pisonis mappable:1" ; Times: 3
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Kissidougou" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 3
+	Query: "Polymixia lowei mappable:1" ; Times: 1
+	Query: "Epinephelus adscensionis mappable:1" ; Times: 2
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 2
+	Query: "locality:Sipsey county:&#34;Greene&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 2
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Cichla intermedia" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Peru Sarayacu" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Centromochlus perugiae" ; Times: 1
+	Query: "Colomesus psittacus mappable:1" ; Times: 2
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 3
+	Query: "county:&#34;Autauga&#34;" ; Times: 1
+	Query: "genus:Ammocrypta stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Dormitator maculatus mappable:1" ; Times: 3
+	Query: "42543" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "52151" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "specificepithet:radiosum genus:Etheostoma" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Etropus crossotus mappable:1" ; Times: 1
+	Query: "river Chiriqui" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 1
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 1
+	Query: "Paralichthys dentatus mappable:1" ; Times: 3
+	Query: "Lactophrys trigonus mappable:1" ; Times: 2
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 2
+	Query: "28482" ; Times: 1
+	Query: "Citharichthys spilopterus mappable:1" ; Times: 3
+	Query: "Oreochromis niloticus mappable:1" ; Times: 2
+	Query: "Oligoplites saurus mappable:1" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "Trachinotus falcatus mappable:1" ; Times: 1
+	Query: "ANSP 6801" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "ANSP 41449" ; Times: 2
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 3
+	Query: "41449" ; Times: 1
+	Query: "locality:Big Escambia Creek county:&#34;Escambia&#34; stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "schoutedeni" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 940 download events in this period)
+Total number of records downloaded: 96
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Sipsey county:&#34;Tuscaloosa&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "locality:Sipsey county:&#34;Greene&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Hypophthalmus" ; Times: 1
+
+
+End of report.
